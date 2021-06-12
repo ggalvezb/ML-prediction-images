@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fabrica-memes-fe1cf",
+  "private_key_id": "7bef2f1f49032c5f0222a50bac7b71aa4f9a9779",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsk8N4xg0nrTds\n33J6pBqcIalVRIK+F10QbdJyt+Pk5CkdIiMnCFj9K/v1YV3LSS2LR1nJURC7CU1w\nxjv8c9LlT2/ii4nT1Jk/hPA3/gdfYyszp/7W6NYYCQBWa+OVaLh4WpgAnnrkYCJo\nKHtEQYw01C8XC1B9xupfqANBSfZL8/TYAjJtjiYNjFVFlBKTuoYbpI+aTfmnu4UR\ntsoWVxEJCEEsHml9RDh+XTGnnrZrzHKjALx/Aq4riLNqskltEUwjpj2rQZ4jHYfN\nuCiQrfe4LvRLzdiseXwTr35j7TmK3Z24Nc/3oTVTj9rTmL3hmj9MTPmstVdEFlrH\n/87D91qrAgMBAAECggEAA8gJFHBigWgOOth6ja1i1+D08OVbaAbjByUg41qcJ7vI\nGtdQpd5M9N8t2iaUA4xK7y5VDVA1aaO+iqYNUm7HRDcFYJVmI7oY0Yd8K/3o83Ic\n1DjuII9hgY1Q8JPUnMV6pUh25CyUzMQ+fMHGUayOAepUTdD1povhPs9Tou6X8voQ\nP1QHJPeFB60+zRtgzMqyXfDsYL+U8RCOormyyKWt2fIxFCxArsThNpIaH7i7jk/d\n/g/AgEMnJyy1vEgX5P2gZHvga1lr8LMRZDEM5Q3Dd5HsqoMJB3tia9UXp00eursZ\nVBle5RQRPh6PukHZPteu5yZZC6EJZsrG/NhC+OGTAQKBgQDa8LUyMJb9umqttcTD\ncDOD+XRamx/bjWmDo1jqTto78+j7rzHXvFw8wmH1bG4k/StjHcOWTL3+jgme+DDF\ngQ6UPE/FNvNwq/J2AFuq7bvsXKP5LHA1vYJOVcU9Y7seMsZawWSxFgkCZP/xEOkz\npumOLHUIueyqcPY7RNUuP8QbSwKBgQDJygPTItG4gzdRkkYON5VrjrRtvwJRVIbT\n68+zJj8Pn3RNn6DUPthMaWKCgJBAT1sfk+cfEBoBNLJCnxrMdsrZwX70q5ktzOqE\nvfN4+5uq2jmleUTCkucmwCQbIv/UD74dUC9tmQtOWkYiqXJNfkS0L07+JQrPFWlB\nGFYog2PCIQKBgQCkXPCqrS+ta7WKk1sUHbeO7Ecdfjd8a706xfaKcIgFWiceS3fv\nrcjRFFzWEoDd4/Iehsm+m/5Gi/tNDKYQn8KCJoT8WTSI8Y0kaUBoIfFikGnJNkNH\nFO4uQNXCMIzZLuUaXPVqvFAnLAu4vilUTYoo4dc6pdm2Wvd/pz0ja1ud4QKBgGd4\nW++2yf0n44TDUYLWw5qMaT5hFEop4pzmLPF66hkTtWpcMPbEZtr/qtCqJc2kI2CU\n0Y1fD0aRA9sfhHlVbHyuOHAzUW9nxNVeJWti8RZxod+UyEpRU4/ONHVpw+60R9L2\nG+vB70c1CQObCY5s8cPHAmVVDy7Sls8XMI7DmLKhAoGAF1w1tk9Tw5KjVSqjvwcq\nB3uksM4GrD7zich9SBILTZ2Edl6Ee9NRvorCoV8alkXF1nsZASsxv815p+a82nX/\nEX+RecX0g18YD5m2FBfMjwVh/JYIQfmZBEBEkui7OSHXHzJF3uo/cj/Z2MaqD05R\nb6w8nFrrMKS/eV07lLowovk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fabrica-memes-fe1cf@appspot.gserviceaccount.com",
+  "client_id": "102842286350245526887",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fabrica-memes-fe1cf%40appspot.gserviceaccount.com"
+}
